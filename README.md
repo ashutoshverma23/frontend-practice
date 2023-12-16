@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ashutoshverma23/qr-code)
-- Live Site URL: [Add live site URL here](https://ashutoshverma23.github.io/qr-code/)
+- [Solution URL]:  (https://github.com/ashutoshverma23/qr-code)
+- [Live Site URL]: (https://ashutoshverma23.github.io/qr-code/)
 
 ## My process
 
@@ -36,7 +36,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ```css
 These three css property for flex are very useful
-.proud-of-this-css {justify-content: center;
+.container{
+justify-content: center;
     align-content: center;
     flex-direction: column;
 }
