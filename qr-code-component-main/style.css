@@ -1,0 +1,42 @@
+*{
+    margin: 10;
+    font-family: sans-serif;
+    border-radius: 5px;
+}
+
+.container{
+    /* background-color: red; */
+    margin-left: 37%;
+    margin-right: 37%;
+    height: 700px;
+    width: 375px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.qr-code{
+    height: 350px;
+    width: 350px;
+    border:white 5px;
+    border-radius: 10px;
+}
+
+#heading{
+    width: 340px;
+    font-size: 25px;
+}
+
+#bottom-text{
+    color: grey;
+    margin: 20px;
+    width: 280px;
+}
+
+.text{
+    margin-bottom: 20%;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
