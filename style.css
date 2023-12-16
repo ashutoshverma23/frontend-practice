@@ -1,0 +1,55 @@
+*{    
+    margin: 10;
+    font-family: sans-serif;    
+}
+body{
+    background-color: rgb(213,225,239);
+}
+
+.container{
+    margin: 0 auto;
+    height: 700px;
+    width: 375px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.whitebox{
+    background-color: white;
+    width: 375px;
+    border-radius: 20px;
+}
+
+.qr-code{
+    padding: 12px;
+    height: 350px;
+    width: 350px;
+    border-radius: 22px;
+}
+
+#heading{
+    width: 340px;
+    font-size: 25px;
+}
+
+#bottom-text{
+    color: grey;
+    margin: 20px;
+    width: 280px;
+}
+
+.text{
+    text-align: center;
+    padding: 0 20px 20px 20px;
+}
+
+.attribution {
+    position: fixed;
+    bottom: 0; 
+    right: 0;
+    font-size: 15px; 
+    text-align: center; 
+}
+.attribution a { color: hsl(228, 45%, 44%); }
