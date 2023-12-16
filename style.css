@@ -7,13 +7,12 @@ body{
 
 .container{
     margin: 0 auto;
-    height: 1440px;
+    height: 750px;
     width: 375px;
     display: flex;
     justify-content: center;
     align-content: center;
-    flex-direction: column;
-    /* align-self: center; */
+    flex-direction: column;    
 }
 
 .whitebox{
